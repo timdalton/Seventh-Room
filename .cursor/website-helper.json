@@ -1,0 +1,6 @@
+{
+  "name": "WebsiteHelper",
+  "description": "Assists with HTML/CSS improvements, accessibility, and layout fixes.",
+  "include": ["**/*.html", "**/*.css"],
+  "exclude": ["node_modules/**"]
+}
